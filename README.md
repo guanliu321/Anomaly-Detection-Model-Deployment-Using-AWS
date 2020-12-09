@@ -1,4 +1,4 @@
-# Supervised-Anomaly-Detection-Real-Time-Notification-Using-AWS-
+# Supervised Anomaly Detection & Model Deployment Using AWS
 Utilized a sample solution deployed by using the AWS CloudFormation template provided by the AWS,We have developed an end-to-end workflow in a dataset with more than 280,000 records for detecting abnormal behaviors of customers' credit cards.Here is the detail of the workflow:
 
 #Using Amazon Sagemaker's algorithm, we built a Logistic model, then used incremental learning to refine and expand the model, and deploy the model to AWS endpoints.
