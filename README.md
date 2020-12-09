@@ -8,6 +8,7 @@ Utilized a sample solution deployed by using the AWS CloudFormation template pr
 #At the end of each day, a summary dashboard which record the pattern of daily abnormal activities will be automatically generated and sent to key stakeholders.
 
 #Utilized:Python,AWS,Pandas,Numpy,Json,Boto3,Base64,Amazon Sagemaker,ETL,Anomaly Detection,Logistic Model,SQL.
+
 # User Guide
 ## General reminder:
 * Please note that you are responsible for the cost of the AWS services used while running this solution. See the Cost section for more details. For full details, see the pricing webpage for each AWS service you will be using in this solution. 
