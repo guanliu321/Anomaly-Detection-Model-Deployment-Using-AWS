@@ -1,0 +1,17 @@
+
+ {       
+   "fileLocations": [
+       {
+                "URIPrefixes": [
+                        "https://s3-us-east-1.amazonaws.com/your-pred-result-bucket-name/"
+               ]
+        }
+   ],
+   "globalUploadSettings": {
+           "format": "CSV",
+           "delimiter": ",",
+           "textqualifier": "'",
+           "containsHeader": "false"
+   }
+}
+      
